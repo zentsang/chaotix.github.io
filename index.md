@@ -1,123 +1,80 @@
----
-layout: default
----
+Hello, and thanks for peering into my brain as I code things.
+At the moment I experiment with Python and SQL, but have dabbled
+in many languages in the past to include HTML, Javascript, C++,
+and C# (mainly because of the Unreal and Unity gaming engines).
+Like most, I am not a master of any because we are always learning
+more and our brains can only house so much. However, when faced
+with a task or project, I can get the job done utilizing the many
+tools we have available to us from Github, web searches, or AI
+assistance. 
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+So let's get started with altering this webpage a bit from the
+default Jekyll template.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+* * *
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### My Humble Homage
 
-# Header 1
+We all had to start somewhere so here is my homage...
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+```html
+// HTML
+<!DOCTYPE html>
+<html>
+   <body>
+      <p>Hello World!<p>
+   </body>
+</html>
+```
 
-## Header 2
+```python
+# Python
+print("Hello World!")
+```
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+```C\#
+# C#
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        System.Console.WriteLine("Hello, World!");
+    }
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+* * *
 
-#### Header 4
+#### SQL
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+SQL but not really SQL, but you get the idea
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+| UserID  | Name             | Status   |
+|:--------|:-----------------|:---------|
+| 001     | Edward Donne     | unknown  |
+| 003     | Johanna Harwood  | alive    |
+| 005     | Stuart Thomas    | dead     |
+| 007     | James Bond       | alive    |
 
 * * *
 
-### Here is an unordered list:
+### Degrees/Certification I'm working towards:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   Master's Degree in Cybersecurity (2 classes left)
+*   CompTIA Security+
+*   CompTIA Network+
+*   CompTIA PenTest+
 
-### And an ordered list:
+* * *
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+### Current Online Courses:
 
-### And a nested list:
+![Udemy](https://github.githubassets.com/udemy2025.jpg)
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+* * *
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+You have reached the end of my brain-dump.
 ```
