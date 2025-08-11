@@ -43,11 +43,9 @@ public class Program
 }
 ```
 
-* * *
+```SQL
 
-#### SQL
-
-SQL but not really SQL, but you get the idea
+#SQL but not really SQL, but you get the idea
 
 | UserID  | Name             | Status   |
 |:--------|:-----------------|:---------|
@@ -55,6 +53,7 @@ SQL but not really SQL, but you get the idea
 | 003     | Johanna Harwood  | alive    |
 | 005     | Stuart Thomas    | dead     |
 | 007     | James Bond       | alive    |
+```
 
 * * *
 
