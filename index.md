@@ -71,7 +71,7 @@ SQL but not really SQL, but you get the idea
 
 ### Current Online Courses:
 
-![Udemy](https://github.githubassets.com/udemy2025.jpg)
+![Udemy](udemy2025.jpg)
 
 * * *
 
