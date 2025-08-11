@@ -11,8 +11,6 @@ assistance.
 So let's get started with altering this webpage a bit from the
 default Jekyll template.
 
-[Link to another page](./another-page.html).
-
 * * *
 
 ### My Humble Homage
@@ -72,6 +70,10 @@ SQL but not really SQL, but you get the idea
 ### Current Online Courses:
 
 ![Udemy](udemy2025.jpg)
+
+* * *
+
+[Link to another page](./another-page.html).
 
 * * *
 
