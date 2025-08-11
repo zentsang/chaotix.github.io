@@ -73,7 +73,7 @@ SQL but not really SQL, but you get the idea
 
 * * *
 
-[Link to another page](./another-page.html).
+[Link to another page](./another-page.md).
 
 * * *
 
